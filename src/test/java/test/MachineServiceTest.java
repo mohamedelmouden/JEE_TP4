@@ -1,5 +1,6 @@
 package test;
-
+// ici package test dans src/test/java/test
+//pour resoudre le probleme des classe qui affiche des erreurs
 import entities.Machine;
 import entities.Salle;
 import org.junit.After;
