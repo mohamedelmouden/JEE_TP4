@@ -9,3 +9,4 @@ public interface IDao<T> {
     T findById(int id);
     List<T> findAll();
 }
+// voici l interface IDao avec ses 5 fonctions
