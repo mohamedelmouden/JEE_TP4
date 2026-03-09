@@ -27,7 +27,7 @@ public class Salle {
         this.machines = machines;
     }
     // voici les deux constructeurs
-
+// ensuit les giters et les setters
     public int getId() {
         return id;
     }
